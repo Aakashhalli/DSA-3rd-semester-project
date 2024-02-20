@@ -1,0 +1,96 @@
+Grand-Palace Thane 8.5 5000 9876543210 grandpalace@gmail.com
+Royal-Residency Thane 7.2 4000 8765432109 royalresidency@gmail.com
+Sapphire-Plaza Thane 9.0 6000 7654321098 sapphireplaza@gmail.com
+Deluxe-Inn Thane 6.8 3500 6543210987 deluxeinn@gmail.com
+
+Palm-Retreat Thane-west 8.2 4800 9876543211 palmretreat@gmail.com
+City-Lights Thane-west 7.5 4200 8765432108 citylights@gmail.com
+Golden-Oasis Thane-west 9.5 5500 7654321097 goldenoasis@gmail.com
+Sunset-View Thane-west 7.0 3800 6543210986 sunsetview@gmail.com
+
+Ocean-Breeze Mira-Bhayandar 8.9 5200 9876543212 oceanbreeze@gmail.com
+Mountain-View Mira-Bhayandar 7.8 4500 8765432107 mountainview@gmail.com
+Emerald-Resort Mira-Bhayandar 9.2 5800 7654321096 emeraldresort@gmail.com
+Serenity-Inn Mira-Bhayandar 7.3 4000 6543210985 serenityinn@gmail.com
+
+Green-Valley Borivali 8.0 4700 9876543213 greenvalley@gmail.com
+Riverside-Inn Borivali 7.1 3900 8765432106 riversideinn@gmail.com
+Cityscape Borivali 8.7 5100 7654321095 cityscape@gmail.com
+Grand-View Borivali 7.6 4200 6543210984 grandview@gmail.com
+
+Urban-Retreat Kandivali 7.9 4600 9876543214 urbanretreat@gmail.com
+Sunshine-Plaza Kandivali 8.3 5000 8765432105 sunshineplaza@gmail.com
+Silver-Bells Kandivali 8.6 4900 7654321094 silverbells@gmail.com
+Metro-Inn Kandivali 7.4 4100 6543210983 metroninn@gmail.com
+
+Cosmic-Boulevard Malad 8.4 5100 9876543215 cosmicboulevard@gmail.com
+Starlight-Residency Malad 7.7 4300 8765432104 starlightresidency@gmail.com
+Royal-Crown Malad 9.1 5700 7654321093 royalcrown@gmail.com
+Sparkling-Skies Malad 7.2 4000 6543210982 sparklingskies@gmail.com
+
+Majestic-Heights Andheri 8.1 4900 9876543216 majesticheights@gmail.com
+Luxury-Lodge Andheri 7.3 4100 8765432103 luxurylodge@gmail.com
+Crystal-Palms Andheri 8.8 5400 7654321092 crystalpalms@gmail.com
+Dream-Stay Andheri 7.5 4200 6543210981 dreamstay@gmail.com
+
+Nature-Retreat Malad 7.6 4200 9876543217 natureretreat@gmail.com
+Ecstasy-Inn Malad 8.0 4700 8765432102 ecstasyinn@gmail.com
+Garden-View Malad 8.5 5000 7654321091 gardenview@gmail.com
+Elegant-Haven Malad 7.1 3900 6543210980 eleganthaven@gmail.com
+
+Crystal-Waves Goregao 9.3 5900 9876543218 crystalwaves@gmail.com
+Serenade-Inn Goregao 7.8 4500 8765432101 serenadeinn@gmail.com
+Premium-Plaza Goregao 8.2 4800 7654321090 premiumplaza@gmail.com
+Ultimate-Retreat Goregao 7.4 4100 6543210979 ultimateretreat@gmail.com
+
+Seaside-Bliss Navi-Mumbai 8.6 4900 9876543219 seasidebliss@gmail.com
+Marina-View Navi-Mumbai 7.9 4600 8765432100 marinaview@gmail.com
+Harbor-Lights Navi-Mumbai 8.9 5200 7654321089 harborlights@gmail.com
+Coastal-Escape Navi-Mumbai 7.2 4000 6543210978 coastalescape@gmail.com
+
+Urban-Charm Vashi 8.7 5100 9876543220 urbancharm@gmail.com
+City-Vibes Vashi 7.6 4200 8765432099 cityvibes@gmail.com
+Oceanfront-Plaza Vashi 9.0 6000 7654321088 oceanfrontplaza@gmail.com
+Bayside-Retreat Vashi 7.5 4300 6543210977 baysideretreat@gmail.com
+
+Nature-Bounty Airoli 8.5 5000 9876543221 naturebounty@gmail.com
+Eco-Haven Airoli 7.0 3800 8765432098 ecohaven@gmail.com
+Green-Gables Airoli 8.3 5000 7654321087 greengables@gmail.com
+Aqua-Paradise Airoli 7.8 4500 6543210976 aquaparadise@gmail.com
+
+City-Serenity Chembur 8.2 4800 9876543222 cityserenity@gmail.com
+Chemical-Charm Chembur 7.3 4000 8765432097 chemicalcharm@gmail.com
+Metro-Majesty Chembur 8.6 4900 7654321086 metromajesty@gmail.com
+Eternal-Elegance Chembur 7.1 3900 6543210975 eternalelegance@gmail.com
+
+Urban-Gem Andheri 8.9 5200 9876543223 urbangem@gmail.com
+Luxury-Lagoon Andheri 7.5 4300 8765432096 luxurylagoon@gmail.com
+Royal-Resort Andheri 8.1 4900 7654321085 royalresort@gmail.com
+Empire-Elegance Andheri 7.4 4100 6543210974 empireelegance@gmail.com
+
+Skyline-Splendor Juhu 9.5 5500 9876543224 skylinesplendor@gmail.com
+Celestial-View Juhu 7.2 4000 8765432095 celestialview@gmail.com
+Majestic-Moonlight Juhu 8.7 5100 7654321084 majesticmoonlight@gmail.com
+Royal-Retreat Juhu 7.0 3800 6543210973 royalretreat@gmail.com
+
+Oceanic-Oasis Bandra 8.8 5400 9876543225 oceanicoasis@gmail.com
+Sands-Of-Time Bandra 7.4 4100 8765432094 sandsoftime@gmail.com
+Regal-Riverside Bandra 8.0 4700 7654321083 regalriverside@gmail.com
+Eternal-Elegance Bandra 7.6 4200 6543210972 eternalelegance@gmail.com
+
+Harbor-Haven Sinon-Koliwada 8.3 5000 9876543226 harborhaven@gmail.com
+Sailor-Sunrise Sinon-Koliwada 7.1 3900 8765432093 sailorsunrise@gmail.com
+Blue-Waves Sinon-Koliwada 8.6 4900 7654321082 bluewaves@gmail.com
+Seashore-Serenity Sinon-Koliwada 7.8 4500 6543210971 seashoreserenity@gmail.com
+
+City-View Dadar 8.5 5000 9876543227 cityview@gmail.com
+Central-Charm Dadar 7.0 3800 8765432092 centralcharm@gmail.com
+Urban-Utopia Dadar 8.9 5200 7654321081 urbanutopia@gmail.com
+Downtown-Delight Dadar 7.2 4000 6543210970 downtowndelight@gmail.com
+
+Metro-Marvel Parel 8.2 4800 9876543228 metromarvel@gmail.com
+Elegant-Epic Parel 7.3 4000 8765432091 eleganteptic@gmail.com
+Pinnacle-Paradise Parel 8.7 5100 7654321080 pinnacleparadise@gmail.com
+Urban-Zenith Parel 7.5 4200 6543210969 urbanzenith@gmail.com
+
+kletech-Presidency hubballi 9.9 25000 1234567899 kletechpresidency@gmail.com 
